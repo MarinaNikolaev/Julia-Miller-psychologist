@@ -13,3 +13,4 @@
 require "психология" -для отображения ссылки при наведении на название
 'git status'
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![фото Юли](
