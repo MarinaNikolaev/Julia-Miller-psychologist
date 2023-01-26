@@ -11,6 +11,5 @@
 > это если нужна цитата<br>
 [GitHub Pages](https://pages.github.com/)<br>
 require "психология" -для отображения ссылки при наведении на название
-'git status'
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![фото Юли](
+
+![фото Юли](https://github.com/MarinaNikolaev/Julia_Miller_github.io/blob/main/0.jpeg)
